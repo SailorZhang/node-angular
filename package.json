@@ -2,11 +2,12 @@
   "name":"angular",
   "author":"Edward Hotchkiss <edwardhotchkiss@me.com>",
   "contributors":[
-    { "name": "Edward Hotchkiss", "email": "edwardhotchkiss@me.com" }
+    { "name": "Edward Hotchkiss", "email": "edwardhotchkiss@me.com" },
+    { "name": "Christopher Najewicz", "email": "chief@beefdisciple.com" }
   ],
   "homepage":"http://github.com/edwardhotchkiss/node-angular",
   "description":"Node.JS + AngularJS project generator",
-  "version":"0.0.2",
+  "version":"0.0.3",
   "repository":{
     "type":"git",
     "url":"git://github.com/edwardhotchkiss/node-angular.git"
