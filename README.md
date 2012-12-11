@@ -9,6 +9,7 @@ $ sudo npm install angular -g
 ```
 
 Start a mongod process:
+
 See here for details - http://www.mongodb.org/display/DOCS/Starting+and+Stopping+Mongo
 
 Generate New Project:
