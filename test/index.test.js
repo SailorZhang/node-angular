@@ -5,7 +5,7 @@
 
 var vows = require('vows')
   , assert = require('assert')
-  , angular = require('../lib/index')
+  , angular = require('../lib/index');
 
 /**
  * build spec batch
